@@ -4,15 +4,18 @@ html{
 }
 
 header{
-display: flex;}
-
-.home{
-    display: flex;
-    align-items: center;
-}
+display: flex;
+justify-content: center;}
 
 .site-anchors li{
     display: inline;
-    padding: 0.25rem;
+    padding: 0.5rem;
 }
 
+.banner{
+    width: 100%;
+}
+
+h1{
+    text-align: center;
+}
