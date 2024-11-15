@@ -1,28 +1,123 @@
 html{
     font-size: 16px;
     font-family: "Noto Sans", sans-serif;
+    color: white;
+    background-color: black;
+}
+
+a {
+    color: white;
 }
 
 /* header section */
 
 header{
 display: flex;
-justify-content: center;}
+justify-content: center;
+border-bottom: solid 1px white;
+}
+
 
 .site-anchors li{
     display: inline;
     padding: 0.5rem;
+    
 }
 
 /* banner Section */
-
 .banner{
-    width: 100%;
-    height: auto;
+    padding: 1rem 1rem 5rem 1rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
 }
 
-h1{
+
+.banner #logo{
+height: 10rem;
+padding-right: 2rem;
+}
+
+
+/* all containers */
+.container{
+    height: auto;
+    padding-bottom: 5rem;
+    width: auto;
+    border: solid 1px white;
+    display: flex;
+    flex-direction: column;
+    margin: 0;
+}
+
+.container h2{
+    width: 100%;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
     text-align: center;
 }
 
-/* about me */
+/*about me */
+
+.about{
+    display: flex;
+    align-items: space-around
+}
+
+.about img{
+    height: 12rem;
+    padding: 0.75rem;
+    justify-content: center;
+    padding-left: 2rem;
+}
+
+.about p{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding-right: 2rem;
+    margin: auto;
+}
+
+/* projects */
+
+.proj-container{
+    display: flex;
+    justify-content: space-between;
+}
+
+.project{
+    display: flex;
+    width: 100%;
+    height: auto;
+    border: solid 1px white;
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+    }
+
+.project h3{
+width: 100%;
+padding: 0.5rem;
+text-align: center;
+height: 10%;
+}
+
+.project img{
+    width: 10rem;
+    align-items: flex-start;
+    margin: auto 0;
+    height: 40%;
+    padding-top: 0.75rem;
+}
+
+.project p{
+    width: 100%;
+    text-align: center;
+    vertical-align: middle;
+    height: 40%;
+}
