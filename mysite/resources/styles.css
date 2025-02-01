@@ -1,8 +1,9 @@
 html{
     font-size: 16px;
     font-family: "Noto Sans", sans-serif;
-    color: white;
-    background-color: black;
+    color: #ebe8e8;
+    background-color: #1f1f1f;
+    
 }
 
 a {
@@ -37,6 +38,7 @@ border-bottom: solid 1px white;
 .banner #logo{
 height: 10rem;
 padding-right: 2rem;
+padding-left: 2rem;
 }
 
 h1{
@@ -156,8 +158,29 @@ flex-wrap: wrap;
     height: auto;
     justify-content: center;
     align-items: center;
+    margin: 5%;
 }
 
+/* mobile sizing iPhone SE */
+
+@media (min-width: 0) and (max-width: 375px) { 
+    .banner img {
+        display: none;
+    }
+
+    .about img {
+        display: none;
+    }
+
+    .about p {
+        margin-left: 25%;
+    }
+
+    .project p, h3 {
+        display: none;
+    }
+    
+}
 
     
  
