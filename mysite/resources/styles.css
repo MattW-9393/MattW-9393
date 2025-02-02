@@ -71,7 +71,8 @@ h1{
 
 .about{
     display: flex;
-    align-items: space-around
+    align-items: space-around;
+    margin-left: 15%;
 }
 
 .about img{
@@ -150,6 +151,10 @@ display: flex;
 justify-content: space-around;
 padding: 1rem;
 flex-wrap: wrap;
+}
+
+#reach-out {
+    text-align: center;
 }
 
 .contact{
