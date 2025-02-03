@@ -144,6 +144,28 @@ height: 10%;
     padding: 0rem 1rem;
 }
 
+/* meet Goldie */
+
+.goldie-title {
+    text-align: center;
+}
+
+h2 {
+    font-size: 3rem;
+}
+
+.meet-goldie {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+button {
+    margin: auto;
+    display: block;
+}
+
+
 /* contact me */
 
 .contact-container{
