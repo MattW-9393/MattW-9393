@@ -7,7 +7,7 @@ html{
 }
 
 a {
-    color: white;
+    color: #fafafa;
 }
 
 /* header section */
@@ -15,7 +15,7 @@ a {
 header{
 display: flex;
 justify-content: center;
-border-bottom: solid 1px white;
+border-bottom: solid 1px #fafafa;
 }
 
 
@@ -111,7 +111,7 @@ h1{
     min-width: 15%;
     max-width: 33%;
     height: auto;
-    border: solid 1px white;
+    border: solid 1px #fafafa;
     flex-direction: column;
     justify-content: center;
     align-content: center;
@@ -158,6 +158,37 @@ h2 {
     display: flex;
     align-items: center;
     justify-content: center;
+}
+
+#half-biscuit{
+    display: none;
+}
+
+#biscuit {
+    display: inline;
+}
+
+#hungry-lab {
+    display: inline;
+}
+
+#sleepy-dog {
+    display: none;
+}
+
+#feed-me{
+    background-color: #ed3e44;
+    color: #fafafa;
+    border-radius: 0.5rem;
+    padding: 0.5rem;
+}
+
+#feed-me-again{
+    background-color: #ed3e44;
+    color: #fafafa;
+    border-radius: 0.5rem;
+    padding: 0.5rem;
+    display: none;
 }
 
 button {
