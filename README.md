@@ -1,16 +1,77 @@
-## Hi there 👋
+# 🧠 Matt Warne — Personal Portfolio
 
-<!--
-**MattW-9393/MattW-9393** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to the source code behind my personal website — a space to share my journey as a self-taught developer, showcase what I’ve built, and dive deeper into how I solve problems (usually with a keyboard and a lot of coffee ☕).
 
-Here are some ideas to get you started:
+## 👨‍💻 About Me
 
-- 🔭 I’m currently working on changing careers
-- 🌱 I’m currently learning Full Stack Development
-- 👯 I’m looking to collaborate on Web Apps
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a self-taught full-stack developer with a background in IT Support, passionate about solving complex problems with simple, scalable solutions. I thrive in high-ownership environments and love building tools that improve real-life workflows — from budgeting to fitness to mental wellbeing.
+
+My current full-time role is as an IT Service Delivery Manager; ensuring my organisation are continuing to innovate and improve existing tools, processes and procedures - maximising CX. However I'm looking to make the move into a more hands-on technical space. Currently as part of my role I'm working towards the AWS Solutions Architect - Associate certification.
+
+When I’m not working or coding, I’m probably watching cricket (sometimes playing if it's not raining!), training Muay Thai, or gaming — because a healthy mind needs a high frame rate.
+
+---
+
+## 🚀 Site Goals
+
+- Act as a **blog/showcase** for my projects and technical ideas  
+- Share **case studies** of the challenges I’ve tackled  
+- Make it easy for recruiters and collaborators to reach out  
+- Grow into a **personal knowledge base** over time
+
+---
+
+## 🧰 Tech Stack
+
+Currently using:
+
+- **HTML / CSS / JavaScript**
+- Exploring: **Databases**, **User Auth**, **React**, **AWS** and **DevOps tooling**
+
+Future enhancements may include:
+
+- CMS integration (for blog posts)
+- Dark mode toggle 🌗
+- Searchable project archive
+- CI/CD setup for deploys
+
+---
+
+## 🛠️ Featured Projects
+
+### 💸 Budget Tracker  
+A simple but powerful web app to track income and expenses.  
+**Tech:** HTML, CSS, JS  
+**Skills shown:** DOM manipulation, localStorage, UX design
+
+### 🏋️ Workout Builder  
+Create and store custom workouts for different fitness goals.  
+**Tech:** HTML, CSS, JS  
+**Skills shown:** Dynamic table generation, state management
+
+### 🧘‍♂️ Mood/Productivity Journal *(WIP)*  
+Track mood and productivity over time — detect trends, identify triggers.  
+**Tech:** JS, Google Sheets API  
+**Skills shown:** API integration, data analysis, custom UX
+
+> View all project case studies in the [Projects section](https://yourdomain.com/projects)
+
+---
+
+## 📬 Contact
+
+I’m always open to freelance work, collaboration, or a good dev chat.
+
+- 📫 [Email me](mailto:youremail@example.com)  
+- 💼 [LinkedIn](https://linkedin.com/in/yourprofile)  
+- 🛠️ [GitHub](https://github.com/yourusername)
+
+---
+
+## 📝 License
+
+This site and its contents are open for inspiration, but please don’t copy content or case studies verbatim. Let’s all build in our own voices.
+
+---
+
+> Built with code, curiosity, and caffeine.
