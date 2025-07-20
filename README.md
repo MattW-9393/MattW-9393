@@ -42,9 +42,9 @@ Track mood and productivity over time — detect trends, identify triggers.
 
 I’m always open to freelance work, collaboration, or a good dev chat.
 
-- 📫 [Email me](mailto:youremail@example.com)  
-- 💼 [LinkedIn](https://linkedin.com/in/yourprofile)  
-- 🛠️ [GitHub](https://github.com/yourusername)
+- 📫 [Email me](mailto:matt.warne22@gmail.com)  
+- 💼 [LinkedIn](www.linkedin.com/in/matt-warne-227863342)  
+- 🛠️ [GitHub](https://github.com/MattW-9393)
 
 ---
 
@@ -54,4 +54,4 @@ This site and its contents are open for inspiration, but please don’t copy con
 
 ---
 
-> Built with code, curiosity, and caffeine.
+> Built with code, and caffeine.
