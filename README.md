@@ -50,7 +50,7 @@ I’m always open to freelance work, collaboration, or a good dev chat.
 
 ## 📝 License
 
-This site and its contents are open for inspiration, but please don’t copy content or case studies verbatim. Let’s all build in our own voices.
+This site and its contents are open for inspiration, but please don’t copy content or case studies verbatim. 
 
 ---
 
