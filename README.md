@@ -4,7 +4,7 @@
 
 I'm a self-taught full-stack developer with a background in IT Support, passionate about solving complex problems with simple, scalable solutions. I thrive in high-ownership environments and love building tools that improve real-life workflows — from budgeting to fitness to mental wellbeing.
 
-My current full-time role is as an IT Service Delivery Manager; ensuring my organisation are continuing to innovate and improve existing tools, processes and procedures - maximising CX. However I'm looking to make the move into a more hands-on technical space. Currently as part of my role I'm working towards the AWS Solutions Architect - Associate certification.
+My current full-time role is as an IT Service Delivery Manager; ensuring my organisation are continuing to innovate and improve existing tools, processes and procedures - maximising CX. However I'm looking to make the move into a more hands-on technical space. Recently I have achieved the AWS Solutions Architect - Associate certification.
 
 When I’m not working or coding, I’m probably watching cricket (sometimes playing if it's not raining!), training Muay Thai, or gaming — because a healthy mind needs a high frame rate.
 
@@ -14,7 +14,7 @@ When I’m not working or coding, I’m probably watching cricket (sometimes pla
 
 Currently using:
 
-- **HTML / CSS / JavaScript**
+- **Python / HTML / CSS / JavaScript**
 - Exploring: **Databases**, **User Auth**, **React**, **AWS** and **DevOps tooling**
 
 ---
