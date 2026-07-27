@@ -17,8 +17,9 @@ nginx · Nextcloud · Vaultwarden · Pi-hole · WireGuard · Prometheus · Grafa
 
 ## What I'm building ...
 
-Currently building a workout tracker and self hosting on a VPS.
-A squat rack
+- Currently building a workout tracker and self hosting on a VPS.
+
+- A squat rack
 
 ---
 
